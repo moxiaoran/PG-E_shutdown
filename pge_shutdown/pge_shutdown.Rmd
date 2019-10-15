@@ -25,11 +25,11 @@ library(shiny)
 library(leaflet.extras)
 
 # pge close location
-pge <- st_read("https://github.com/moxiaoran/PG-E_shutdown/blob/master/data/cali_comp.csv")
+pge <- st_read("/Users/yifeiliu/Documents/R/data/EDA/Blog_draft/pge/pge_simple.gpkg")
 pal <- colorNumeric(palette = rcartocolor::carto_pal(7, "PinkYl") , NULL)
 # CA zip population
-cali_comp <- read_sf("https://github.com/moxiaoran/PG-E_shutdown/blob/master/data/cali_comp.gpkg")
-cali_df <- read_csv("https://github.com/moxiaoran/PG-E_shutdown/blob/master/data/cali_comp.csv")
+cali_comp <- read_sf("/Users/yifeiliu/Documents/R/data/EDA/Blog_draft/pge/cali_comp.gpkg")
+cali_df <- read_csv("/Users/yifeiliu/Documents/R/data/EDA/Blog_draft/pge/cali_comp.csv")
 labs <- lapply(seq(nrow(cali_df)), function(i) {
   paste0('<p>', "City: ",cali_df[i, "city"],'<p></p>',
          "Zip Code: ",cali_df[i, "ZCTA5CE10"],'<p></p>',
