@@ -1,12 +1,20 @@
-# EDA
+# PG&E shutdown power supply due to safety reasons
 
-## Purpose
-* Have a better understanding data
-* Know how to analysis data
+PG&E cut power supply since Oct 9, 2019. Affect around 800,000 customers, could potentially cause 2.5 billion economic damage. Base on its lawsuits and potential 30 billion compensation fees, I'm not surprised. But PG&E only provide shapefile and pdf instead of interactive graphic still amaze me. 😂 😂 😂 😂
+
+## "ugle" static image
+
+![]()
 
 
-## Process
-* Analysis different type of data such as census data, geographic data, and apply different type of analysis ROC, regression analsis,
-* Replicate what I learn in Code, such as volatility of correlation of DOW change over time, etc
+## interactive chart
 
-## Result
+![]()
+[Interactive chart link](http://rpubs.com/moxiaoran/pge)
+
+
+## ## conclusion
+
+- Name file is really really really hard........
+- Google is God
+- Best way to learn is read book + real word practice
