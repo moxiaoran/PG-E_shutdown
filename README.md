@@ -4,12 +4,12 @@ PG&E cut power supply since Oct 9, 2019. Affect around 800,000 customers, could 
 
 ## "ugle" static image
 
-![]()
+![](https://github.com/moxiaoran/PG-E_shutdown/blob/master/chart/static_chart.png)
 
 
 ## interactive chart
 
-![]()
+![](https://github.com/moxiaoran/PG-E_shutdown/blob/master/chart/interactive_chart.png)
 [Interactive chart link](http://rpubs.com/moxiaoran/pge)
 
 
