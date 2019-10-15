@@ -13,7 +13,7 @@ PG&E cut power supply since Oct 9, 2019. Affect around 800,000 customers, could 
 [Interactive chart link](http://rpubs.com/moxiaoran/pge)
 
 
-## ## conclusion
+## conclusion
 
 - Name file is really really really hard........
 - Google is God
